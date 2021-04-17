@@ -48,15 +48,3 @@ To Visit App:
 `localhost:3000`  
 
 ---
-
-## Reflection
-
-This was a week long project I built during the final month of University of Washington's coding bootcamp. It was a culmination of much of what was taught in the program. Project goals included creating a functional React app and tying that together with a backend database.
-
-I began this project with the `create-react-app` boilerplate and eventually added other technologies such as `react-router-dom`. One of the main challenges I ran into was manipulating state with ternery operators, but thankfully I now feel comfortable with it. 
-
-At the end of the day, the technologies implemented in this project are React, React-Router, Express, MongoDB, Mongoose, JSX, and CSS, and Node. Creating this app proved to be a great challenge for me. I'm proud of what it is at its current state. 
-
-In the future, I plan on adding authentication so that users can only view and delete books that they've saved as opposed to everyone's. This will add a privacy aspect that some users might prefer.
-
-
